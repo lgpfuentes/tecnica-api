@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|c:\\users\\luis fuentes\\onedrive\\escritorio\\tecnica-api\\bookapi\\bookapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D15D-4C61-4250-839C-AD2AFB3055EC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Program.cs",
+              "RelativeToolTip": "BookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:15:17.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookApi\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "BookApi\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:11:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookApi\\Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "BookApi\\Repository\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:03:05.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookApi\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Services\\BookService.cs",
+              "RelativeToolTip": "BookApi\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:00:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Models\\Response.cs",
+              "RelativeToolTip": "BookApi\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:55:17.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookApi\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Services\\IBookService.cs",
+              "RelativeToolTip": "BookApi\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:54:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:50:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Luis Fuentes\\OneDrive\\Escritorio\\tecnica-api\\BookApi\\BookApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:38:03.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
